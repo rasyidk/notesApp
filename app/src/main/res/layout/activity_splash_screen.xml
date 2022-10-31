@@ -10,7 +10,7 @@
     <ImageView
         android:layout_width="140dp"
         android:layout_height="140dp"
-        android:src="@drawable/ic_note"
+        android:src="@drawable/logonotes"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"/>
 
